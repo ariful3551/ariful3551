@@ -16,9 +16,9 @@ Passionate about learning, building real-world projects, and growing every day.
 
 📊 Currently learning Data Analysis
 
-🤖 Beginning my journey in Machine Learning
+🤖 Preparing to start Machine Learning
 
-🧠 Exploring Deep Learning & LLM Engineering
+🧠 Planning to learn Deep Learning & LLM Engineering
 
 🎯 Goal: Become an LLM Engineer
 
